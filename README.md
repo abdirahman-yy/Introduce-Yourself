@@ -24,7 +24,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/gallery/BMF9GpU
+https://imgur.com/a/pYufx42
 
 
 ## License
