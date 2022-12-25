@@ -2,7 +2,7 @@
 
 ## *Abdirahman Mohamed*
 
-**Introduce Yourself** app will allow users to introduce themselves by accepting user inputs in various forms, such as switches, text fields, segmented controls; from there, a message will be prompted of the users selections when the intro button is clicked on.
+The **Introduce Yourself** app will allow users to introduce themselves by accepting user inputs in various forms, such as switches, text fields, segmented controls; from there, a message will be prompted of the users selections when the intro button is clicked on.
 
 Time spent: **1** hours spent in total
 
