@@ -1,6 +1,6 @@
 # Introduce Yourself
 
-## *Abdirahman Mohamed*
+## *Abdirahman Yasin Mohamed*
 
 The **Introduce Yourself** app will allow users to introduce themselves by accepting user inputs in various forms, such as switches, text fields, segmented controls; from there, a message will be prompted of the users selections when the intro button is clicked on.
 
